@@ -37,7 +37,7 @@
                     <button class="sidebar-toggle"><i class="fas fa-arrow-alt-circle-left"></i></button>
                 </div>
                 <div class="right-menu list-inline no-margin-bottom">
-                    <h4>Sistema de Venta <strong class="text-primary">Perú, <?php echo date("d-M-Y") ?></strong></h4>
+                    <h4>Sistema de Inventario <strong class="text-primary">Gafra <?php echo date("d-M-Y") ?></strong></h4>
                 </div>
                 <!-- Log out               -->
                 <div class="list-inline-item logout">
@@ -52,7 +52,7 @@
         <nav id="sidebar">
             <!-- Sidebar Header-->
             <div class="sidebar-header d-flex align-items-center p-1">
-                <div class="avatar" data-toggle="modal" data-target="#cambiarPass"><img src="<?php echo base_url(); ?>/Assets/img/logo.jpg" alt="..." class="img-fluid rounded-circle"></div>
+                <div class="avatar" data-toggle="modal" data-target="#cambiarPass"><img src="<?php echo BASE_URL; ?>/Assets/img/logo.jpg" alt="..." class="img-fluid rounded-circle"></div>
                 <div class="title">
                     <h5 class="h5"><?php echo $_SESSION['rol']; ?></h5>
                 </div>

@@ -109,7 +109,7 @@
                         </div>
                         <div class="col-lg-6">
                             <div class="form-group">
-                                <label for="confirmar">Correo</label>
+                                <label for="confirmar">Confirmar Contraseña</label>
                                 <input id="confirmar" class="form-control" type="password" name="confirmar" placeholder="Confirmar Contraseña">
                             </div>
                         </div>
