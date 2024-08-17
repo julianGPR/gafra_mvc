@@ -4,7 +4,7 @@
 <div class="page-content bg-light">
     <div class="page-header bg-light">
         <div class="container-fluid">
-            <h2 class="h5 no-margin-bottom">Panel de Administración</h2>
+            <h2 class="h5 no-margin-bottom">Administración</h2>
         </div>
     </div>
     <section class="no-padding-bottom">
