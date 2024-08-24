@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Sistema</title>
+    <title>Sistema de ventas </title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="all,follow">
@@ -37,7 +37,7 @@
                     <button class="sidebar-toggle"><i class="fas fa-arrow-alt-circle-left"></i></button>
                 </div>
                 <div class="right-menu list-inline no-margin-bottom">
-                    <h4>Sistema de Inventario <strong class="text-primary">Gafra <?php echo date("d-M-Y") ?></strong></h4>
+                    <h4>Sistema <strong class="text-primary">Gafra <?php echo date("d-M-Y") ?></strong></h4>
                 </div>
                 <!-- Log out               -->
                 <div class="list-inline-item logout">
